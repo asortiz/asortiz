@@ -7,24 +7,13 @@ I'm passionate about bioinformatics, data analysis, and R programming. My main i
 - 🧬 Differential gene/protein expression analysis
 
 - 🔗 Pathway enrichment with KEGG and Reactome
+  
+- 🦠 Microbiome analysis
 
 - 📊 Data science applied to health
 
 - 🎓 Teaching R and data analysis
 
-📂 Featured Projects
-
-- Proteomics Analysis: Mass spectrometry data processing and visualization with volcano plots.
-
-- R Courses: Educational materials and practical examples for learning R and data analysis.
-
-🛠️ Technologies & Tools
-
-- 🖥 R (tidyverse, DEP, flextable)
-
-- 🧪 Bioinformatics (gene and protein analysis)
-
-- 📈 Data visualization
 
 📫 How to Reach Me?
 
