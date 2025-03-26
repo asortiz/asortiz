@@ -14,9 +14,9 @@ I'm passionate about bioinformatics, data analysis, and R programming. My main i
 
 📂 Featured Projects
 
-🔹 Proteomics Analysis: Mass spectrometry data processing and visualization with volcano plots.
+- Proteomics Analysis: Mass spectrometry data processing and visualization with volcano plots.
 
-🔹 R Courses: Educational materials and practical examples for learning R and data analysis.
+- R Courses: Educational materials and practical examples for learning R and data analysis.
 
 🛠️ Technologies & Tools
 
