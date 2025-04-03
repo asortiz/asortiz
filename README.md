@@ -19,5 +19,3 @@ I'm passionate about bioinformatics, data analysis, and R programming. My main i
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-santiago-ortiz/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asortiz)](https://github.com/anuraghazra/github-readme-stats)
